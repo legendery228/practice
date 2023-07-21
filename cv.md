@@ -6,17 +6,17 @@
 * __Email__: legendery228dd@gmail.com
 * __GitHub__: legendery228
 
-### About Me
+## About Me
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
 
-### Skills
+## Skills
 * HTML
 * Git
 * JavaScript(basic)
 * C++
 
- ### Code Example
+ ## Code Example
  ````
 function sum(a, b) {
   return a + b;
